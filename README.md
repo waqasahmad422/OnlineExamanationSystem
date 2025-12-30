@@ -21,19 +21,18 @@ A complete web-based examination system built with PHP, MySQLi, HTML, CSS, and J
 - **Color Theme**: #025F11 (Primary Green)
 
 ## Installation
-
-1. Install dependencies:
-   - PHP 8.2+
-   - MySQL
-
-2. Setup the database:
-   ```bash
-   ./setup.sh
-   ```
+1. Install Xampp
+   - start Apache
+   - start MySQL
 
 
+2. Import Database:
+   - first Create Database with name is gdcekkaghund
+   - Then import database file form folder Database
 
-## Default Login Credentials
+
+
+## Login Credentials
 
 ### Admin
 - Username: `admin`
